@@ -1,1 +1,18 @@
-Create a text1 the file
+•	Git
+•	Git –version
+•	PS D:\Course\JavaScript> git config --global user.name "srinivasan06012007" 
+
+•	PS D:\Course\JavaScript> git config --global user.email srinivasan06012007@gmail.com
+
+•	PS D:\Course\JavaScript> git clone https://github.com/srinivasan06012007/GitHubCourse.git
+
+•	PS D:\Course\JavaScript\GitHubCourse> git status
+
+•	PS D:\Course\JavaScript\GitHubCourse> git add index.html
+•	PS D:\Course\JavaScript\GitHubCourse> git add style.css
+•	PS D:\Course\JavaScript\GitHubCourse> git add script.js
+
+•	PS D:\Course\JavaScript\GitHubCourse> git commit -m "Add the html css js file"
+
+•	PS D:\Course\JavaScript\GitHubCourse> git push origin main
+
