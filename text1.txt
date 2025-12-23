@@ -16,3 +16,8 @@
 
 •	PS D:\Course\JavaScript\GitHubCourse> git push origin main
 
+PS D:\Course\JavaScript\GitHubCourse> git add text1.txt
+PS D:\Course\JavaScript\GitHubCourse> git commit -m "Add the gitcommand in textfile"
+[main 6b9b41f] Add the gitcommand in textfile
+ 1 file changed, 18 insertions(+), 1 deletion(-)
+PS D:\Course\JavaScript\GitHubCourse> git push origin main
